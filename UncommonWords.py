@@ -1,3 +1,4 @@
+# Get the uncommon words between the given 2 sentenses
 s1 = 'Python is an interpreted, high-level and general-purpose programming language'
 s2 = 'Python is Created by Guido van Rossum and first released in 1991'
 
